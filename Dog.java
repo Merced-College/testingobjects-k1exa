@@ -4,6 +4,7 @@
 
 public class Dog {
 
+    
     //data variables
     private String name;
     private int age;
